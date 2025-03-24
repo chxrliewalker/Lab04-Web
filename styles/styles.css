@@ -1,0 +1,52 @@
+/*
+
+filename: [your name]
+
+author: [your name]
+
+created: [enter date]
+
+last modified: [enter date]
+
+description: [html files it refers to (if known)]
+
+*/
+
+* {
+    color: #2F4F4F;
+    font-family: 'Arial', sans-serif;
+}h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}h2 {
+    color: rgb(0,128,128);
+    font-size: 1.5rem;
+}h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+}table {
+    border: 1px solid black;
+} aside, footer { font-style: italic; }     
+#images {
+    text-align : center;
+}.special {
+    color: darkorange;
+    font-weight:bold;
+}#heading1 {
+    color: red;
+}.months {
+    text-align: right;
+}nav a {
+    text-decoration: none;
+    padding:0.2em 0.6em;
+    border: 4px solid #ccc;
+} nav a:hover {
+    border: 4px solid darkblue;
+    background-color: lightblue;
+}ol ul {
+    list-style-type : square;
+}aside:hover {
+    display: none;
+} th, td {
+    border: 2px solid black;
+}
